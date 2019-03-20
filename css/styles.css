@@ -1,0 +1,26 @@
+.column {
+  width: 300px;
+  float: left;
+  margin-left: 25%;
+}
+
+.even {
+  background-color: cyan;
+  border-color: red;
+  border: 30px;
+  border-style: double;
+}
+
+.odd  {
+  background-color:purple;
+  border-color: red;
+  border: 30px;
+  border-style: double;
+}
+h1  {
+  text-align: center;
+}
+
+body {
+  background-color: red;
+}
